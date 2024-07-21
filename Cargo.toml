@@ -1,0 +1,2 @@
+[workspace]
+members = ["mdbook-cairo", "cairo-listings"]
